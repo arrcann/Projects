@@ -41,3 +41,7 @@ public class Ladringan_Jerdelyne_MidtermReq {
         }
     }
 }
+
+// Code doesn't reach Line Limit of 80 characters, no need to break into multiple lines.
+// Uses exceptions to handle Errors
+// Keeps methods short and focused on a single task.
